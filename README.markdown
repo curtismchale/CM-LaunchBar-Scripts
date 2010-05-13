@@ -20,4 +20,4 @@ Creates a new task for EasyTask. As of May 7 2010 there are no other supported A
 
 ### iupdate ###
 
-Simple script that causes your iPod to sync with iTunes. Just something I often do before I leave my desk so I have the newest podcasts.
+Simple script that causes your iPod to sync with iTunes. Just something I often do before I leave my desk so I have the newest podcasts. No text entry is required. Just start typing the script name and press enter once it is selected.
